@@ -1,5 +1,0 @@
-
-
-[submodule "src/submodules/assure"]
-	path = src/submodules/assure
-	url = https://github.com/jstar920/assure.git
